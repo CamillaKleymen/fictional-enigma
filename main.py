@@ -22,8 +22,3 @@ class Motorcycle(Vehicle):
         return Motorcycle
 
 
-car = Car('Tesla', 2026, 'blue')
-motorcycle = Motorcycle('Kawasaki', 2024)
-
-car.display_info()
-motorcycle.display_info()
